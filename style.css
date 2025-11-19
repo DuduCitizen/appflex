@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif;
+}
+
+.container{
+    text-align: center;
+}
+
+.entrada{
+    width: 80px;
+}
